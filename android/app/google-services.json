@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402389755012",
+    "project_id": "podcast-awesome",
+    "storage_bucket": "podcast-awesome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402389755012:android:a1606f0f8eac75e6b40ed1",
+        "android_client_info": {
+          "package_name": "com.example.podcast_awesome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402389755012-rppmdl2869gsu3cpkjvebonoj04gt1fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGevMus3hSI8WRO8iyzI9blME-GefrM4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402389755012-rppmdl2869gsu3cpkjvebonoj04gt1fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
